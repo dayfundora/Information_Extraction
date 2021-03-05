@@ -1,4 +1,5 @@
 from nltk.tag.stanford import POSTagger
+
 def get_nouns(text):
     doc = nlp(text)
     
@@ -16,3 +17,10 @@ def get_nouns(text):
             print(word+' '+tag).encode('utf8')
             if isNoun(tag): nouns.append(word)
     return nouns
+
+def chunked_sentences(text):
+    sentences = nltk.sent_tokenize(text)
+    tokenized_sentences = [nltk.word_tokenize(sentence) for sentence in sentences]
+    tagged_sentences = [nltk.pos_tag(sentence) for sentence in tokenized_sentences]
+    chunk_sentences = nltk.ne_chunk_sents(tagged_sentences, binary=True)
+    return chunk_sentences
