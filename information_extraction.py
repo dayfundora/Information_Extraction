@@ -36,3 +36,10 @@ def extract_entity_names(t):
                 entity_names.extend(extract_entity_names(child))
 
     return entity_names
+
+def entity_names(text):
+    entity_names = []
+    chunk_sentences=chunked_sentences(text)
+    for tree in chunk_sentences:
+        entity_names.extend(extract_entity_names(tree))
+    return entity_names
