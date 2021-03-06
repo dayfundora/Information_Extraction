@@ -1,5 +1,10 @@
 from nltk.tag.stanford import POSTagger
 
+def open_file(archivo):
+    with open(archivo, encoding= 'utf8' ) as f: 
+        text =f.read()
+        return text
+
 def get_nouns(text):
     doc = nlp(text)
     
