@@ -55,5 +55,6 @@ if __name__ == "__main__":
     #print(nouns)
     
     entities=entity_names(text)
-    print (entities)
+    #print (entities)
+    print (set(entities))
     
