@@ -48,3 +48,9 @@ def entity_names(text):
     for tree in chunk_sentences:
         entity_names.extend(extract_entity_names(tree))
     return entity_names
+
+if __name__ == "__main__":
+    text =open_file('input.txt')
+    nouns=get_nouns(text)
+    print(nouns)
+    
