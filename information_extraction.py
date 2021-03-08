@@ -52,5 +52,8 @@ def entity_names(text):
 if __name__ == "__main__":
     text =open_file('input.txt')
     nouns=get_nouns(text)
-    print(nouns)
+    #print(nouns)
+    
+    entities=entity_names(text)
+    print (entities)
     
