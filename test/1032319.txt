@@ -1,0 +1,54 @@
+Bourrée
+
+[[Archivo:Os de Chagrin Bourree.jpg|thumb|200px|Bourrée de opéra-entracte «[[L'Os de chagrin]]»]]
+La '''''bourrée''''' ('''borrèia''' en [[Idioma occitano|occitano]]<ref>[http://www.sondaqui.com/cms/index.php?option=com_content&task=view&id=137&Itemid=121&lang=FR Son d´Aquí]</ref>), es un término [[idioma francés|francés]] que designa una danza popular tradicional de [[Auvernia]] y provincias circundantes como el [[Lemosín]], el [[Berry (Francia)|Berry]], etc.<ref name=CNRTL>[http://www.cnrtl.fr/lexicographie/bourr%C3%A9e] Entrada "bourrée" en el diccionario del CNRTL. Consultado el 26 de febrero de 2017 (francés).</ref>
+
+Danza rápida en 2, 4 o 3 tiempos, la bourrée tiene muchas variantes regionales. Una forma estilizada de ''bourrée'' se utilizó en los [[ballet]]s y las [[ópera]]s francesas del [[siglo XVII]] y el [[siglo XVIII]], y en particular en las [[suite]]s barrocas de [[Johann Sebastian Bach]] y [[Georg Friedrich Händel]].<ref>{{Enlace roto|1={{cita web|título=Bourree|url=https://global.britannica.com/art/bourree|obra=Encyclopædia Britannica|editorial=Encyclopædia Britannica|fecha=7-20-1998|fechaacceso=26 de febrero de 2017}} |2=https://global.britannica.com/art/bourree |bot=InternetArchiveBot }}</ref>
+
+== Características ==
+[[Archivo:Bourrée d'Auvergne.jpg|thumb|left|350px|Borrèia de [[Auvernia]], en una fotografía de principios del [[siglo XX]].]]
+La '''borrèia''' es un tipo de baile tradicional muy extendido por ciertas partes de [[Occitania]], principalmente por el [[Macizo Central]], hasta regiones más septentrionales como el [[Morvan]] o departamentos meridionales como [[Ariège]]. Por extensión también se llama borrèia a las canciones y las músicas con las cuales se baila. 
+
+Se distinguen dos clases de bourrées:<ref name=Patrimoine>{{cita web|título=La bourrée auvergnate|url=http://www.patrimoinevivantdelafrance.fr/index.php?mact=News,cntnt01,detail,0&cntnt01articleid=22&cntnt01returnid=28|editorial=Patrimoine Culturel Immatériel|idioma=francés|fechaacceso=26 de febrero de 2017}}</ref>
+* La bourrée en dos tiempos: se baila principalmente en Baja Auvernia ([[Puy-de-Dôme]]), [[Borbonés]], [[Lemosín]], [[Nivernais]] ([[Nièvre]]), [[Charolais|Charolés]] y en el Bajo [[Berry (Francia)|Berry]] ([[Indre]]).
+* La bourrée en tres tiempos, también denominada ''Montanhardas'' o ''Auvernhatas'', se baila en Alta Auvernia ([[Cantal]]), [[Lemosín]], [[Rouergue]], [[Gévaudan]], [[Morvan]] y Alto Berry ([[Cher (departamento)|Cher]]).
+
+Los instrumentos que accompagnan tradicionalmente la bourrée son el [[acordeón]], la ''[[Oboe pícolo|cabrette]]'', la [[gaita]], la [[zanfona]] y el [[violín]].<ref name=Patrimoine/>
+
+== Descripción ==
+Empieza con una [[negra]] en [[anacrusa]] y su movimiento es [[síncopa (música)|sincopado]], siendo similar a la [[gavota]], aunque normalmente más extensa.
+Uno de los más conocidos compositores que incorporaron bourrées en sus suites fue [[Johann Sebastian Bach]].<ref>[[Johann Sebastian Bach|Bach, Johann Sebastian]]. ''The French Suites: Embellished version''. Barenreiter Urtext.</ref> También son célebres las bourrées que incluye [[Georg Friedrich Händel]] en su [[Música para los reales fuegos de artificio]] y en el séptimo movimiento de su [[Música acuática]].
+
+=== Esquemas rítmicos ===
+[[Archivo:Types d'Auvergne - La Bourrée (carte postale).jpg|miniaturadeimagen|La bourrée de Auvernia en una postal de principios del siglo XX.]]
+En la bourrée se utilizan dos esquemas rítmicos básicos a la hora de componer:
+* El primero consiste en 2 corcheas sincopadas y una negra que, por la síncopa, cae en el tiempo fuerte. Con este esquema comienza el 99% de las bourrées. Un ejemplo claro de este esquema rítmico es el famoso ''[[Bourrée en mi menor]]'' de [[Johann Sebastian Bach]].<ref name="Blatter">Blatter, Alfred (2007). ''Revisiting music theory: a guide to the practice'', p.28. ISBN 0415974402.</ref>
+* El segundo consiste, simplemente, en una sucesión de corcheas. Un ejemplo es el comienzo del segundo Bourrée de la Suite para Cello nº 3 de J.S. Bach.<ref name="Blatter"/>
+
+=== Combinación ===
+Estos dos esquemas se combinan. Las melodías suelen comenzar con el primer esquema, luego es indistinto cuál se usa (se usa uno de los dos, se combinan o en ocasiones se varían; la variación más común es la sucesión de dos negras) y el final de la melodía suele terminar con el segundo esquema.<ref name=ABT>{{Enlace roto|1=[http://www.abt.org/education/dictionary/index.htmlhtml] |2=http://www.abt.org/education/dictionary/index.htmlhtml |bot=InternetArchiveBot }} [[American Ballet Theatre|ABT]] website ''Ballet Dictionary''.</ref>
+
+Las blancas y las redondas solo se usan en el final y es sumamente raro encontrar figuras con valores inferiores a la corchea.<ref name=ABT/>
+
+== Orígenes ==
+Documentos del siglo XVII mencionan su existencia en Auvernia, si bien otros documentos de la misma época la sitúan también en [[Bizcaya]].<ref name=Patrimoine/> La bourrée habría sido introducida en la Corte parisina en [[1565]] por [[Margarita de Valois]], hija de [[Catalina de Médici]], donde estuvo muy en boga hasta el reino de [[Luis XIII de Francia|Luis XIII]].<ref name=CNRTL/>
+
+== Referencias ==
+{{listaref}}
+
+== Enlaces externos ==
+{{Traducido ref|en|Bourrée|2010}}
+* [https://web.archive.org/web/20110716103834/http://www.sondaqui.com/cms/index.php?option=com_content&task=view&id=77&Itemid=121&lang=Oc Para saber más de borrèias y escuchar fragmentos] {en francés y occitano)
+* [https://web.archive.org/web/20110717100358/http://www.trikimailua.com/doinutegia/PIRINIOAK/OC.SEGUIDADETRESBORREIAS.pdf Algunas partituras de borrèia] (en occitano)
+* [https://www.youtube.com/watch?v=SC0XLmowi2o En el ballet clásico, se denomina ''pas de bourrée'' el paso que constituye la base de ''La muerte de un cisne'' de Saint-Saëns ejecutado aquí por Maya Plisétskaya] 
+
+{{ORDENAR:Bourree}}
+
+[[Categoría:Géneros y formas musicales de danza]]
+[[Categoría:Géneros y formas musicales]]
+[[Categoría:Géneros y formas musicales del Barroco]]
+[[Categoría:Géneros y formas musicales del Renacimiento]]
+[[Categoría:Música clásica de Francia]]
+[[Categoría:Occitania]]
+[[Categoría:Danza en Francia]]
+[[Categoría:Galicismos]]

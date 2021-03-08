@@ -50,7 +50,7 @@ def entity_names(text):
     return entity_names
 
 if __name__ == "__main__":
-    text =open_file('input.txt')
+    text =open_file('test/input.txt')
     nouns=get_nouns(text)
     #print(nouns)
     

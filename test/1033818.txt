@@ -1,0 +1,39 @@
+Música calentana
+
+{{Ficha de género musical
+|género = Música calentana
+|color = brown
+|origen musical = Sonecitos del país, sones de la tierra, [[Fandango (baile)|Fandango]] español
+|origen cultural = [[Tierra Caliente]], [[México]]
+|instrumentos = [[violín]], [[guitarra]] 6a., [[guitarra panzona]], [[tamborita calentana]], [[arpa]]
+|popularidad = [[Estado de Guerrero|Guerrero]], [[Michoacán]], [[Estado de México]]
+|enlaces = [[:Categoría:Música folclórica de México]]
+}}
+
+[[Archivo:Scalentano.jpg|miniaturadeimagen|Conjunto calentano]]
+
+La '''música calentana''' o '''música de Tierra Caliente''' es una expresión de la [[Tierra Caliente|cultura calentana]] en [[México]] que combina la música, la danza y la poesía popular.  Su ritmo es frenético, armónico, generalmente sesquiáltero que alterna generalmente compases de 6/8 y 3/4, con síncopas y contratiempos.
+
+El conjunto calentano se compone [[violín]], [[guitarra]] y [[Tamborita calentana|tamborita]], y puede tener también [[guitarra panzona]], [[arpa]] y [[contrabajo]].
+
+Su repertorio cubre ''son calentano'' y ''gusto'', y otras formas musicales como ''india, malagueña, petenera, vals, polka, pasos doble, chilena, minuet, corrido, ranchera, danzón, bolero, canto de arrullo o de cuna, música para entierro de mayores'' y ''para angelitos.''
+
+Intépretes: [[Isaías Salmerón Pastenes]], Filiberto Salmerón Apolinar, [[Juan Reynoso Portillo]], [[Ángel Tavira]], Hilario Salgado, Alfonso Salgado, Serafín Ibarra Cortez.
+
+== Referencias ==
+* {{cita libro
+| nombre=[[INAH]]
+| título = Atlas Cultural de México. Música.
+| año = 1988
+| editorial = México: Grupo Editorial Planeta 
+| id = ISBN 968-406-121-8
+}}
+
+== Enlaces externos ==
+* [http://www.fab.com.mx/portal/index.php?option=com_content&task=view&id=839&Itemid=85 Artículo]
+* [http://mx.youtube.com/watch?v=3I5I1fOcE_8 Son calentano]
+
+{{ORDENAR:Musica calentana}}
+[[Categoría:Formas musicales del folclore de México]]
+[[Categoría:Danza folklórica mexicana]]
+[[Categoría:Tierra Caliente]]
